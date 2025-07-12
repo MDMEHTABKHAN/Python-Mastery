@@ -22,3 +22,11 @@ for k in range(5):
     if k == 3:
         continue
     print(k)    
+
+
+lst = [10,20,30,40,50]
+i = 0
+
+while i < 5:
+    print(lst[i])
+    i = i +1 
